@@ -1,0 +1,4 @@
+1|3|Aditya Mehta|2023EC099|9899001122|Lock screen wallpaper has photo of my golden retriever; phone color is blue.|2026-10-17|PENDING
+2|5|Amit Patel|2024CS005|9876501234|It is my official college ID card showing roll number 2024CS005.|2026-10-17|APPROVED
+3|1|Kunal Bansal|2024EE044|9812345678|Left during practical lab exam; initials KB engraved on the plastic back.|2026-10-15|REJECTED
+4|12|Aryan Sharma|2024CS099|9876543210|Serial number ending in 9821, custom silver sticker under the left headband padding.|2026-10-18|APPROVED

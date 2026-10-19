@@ -1,0 +1,12 @@
+1|FOUND|Casio FX-991EX Scientific Calculator|Black casing with yellow sticker on battery lid|ELECTRONICS|Labs|2026-10-14|OPEN|STAFF|STF102|Dr. Sharma|9876543210
+2|LOST|Dell Inspiron 15 Laptop|Silver laptop with Intel i5 sticker and minor scratch on top left|ELECTRONICS|Library|2026-10-15|OPEN|STUDENT|2024CS082|Rahul Verma|9811223344
+3|FOUND|Apple iPhone 13 (Blue)|Blue silicone cover with transparent ring holder, locked screen|ELECTRONICS|Canteen|2026-10-16|CLAIM_PENDING|STUDENT|2023EC041|Priya Nair|9822334455
+4|LOST|Titan Karishma Analog Watch|Silver metallic strap with black round dial and date display|ACCESSORIES|Sports Complex|2026-10-13|OPEN|STUDENT|2024ME019|Rohan Das|9833445566
+5|FOUND|College ID Card - Amit Patel|Computer Science department student ID card with blue lanyard|ID_CARDS|Admin Block|2026-10-17|RETURNED|STAFF|STF204|Mr. K. Rao|9844556677
+6|LOST|Wildcraft Backpack (Dark Blue)|Contains 3 engineering notebooks, lab record, and glasses case|BAGS|Library|2026-10-16|OPEN|STUDENT|2023CS110|Ananya Sen|9855667788
+7|FOUND|Set of Bike Keys with Honda Keychain|Two silver keys attached to a red rubber Honda wings keychain|KEYS|Parking|2026-10-17|OPEN|STAFF|STF055|Security Desk|9866778899
+8|LOST|Fastrack Blue Polarized Sunglasses|Square aviator frames in hard zippered black pouch|ACCESSORIES|Canteen|2026-10-15|OPEN|STUDENT|2024BT015|Sneha Roy|9877889900
+9|FOUND|Data Structures and Algorithms Book|Textbook by Robert Lafore with pencil notes on page 45|BOOKS|Library|2026-10-16|OPEN|STAFF|STF102|Dr. Sharma|9876543210
+10|LOST|Navy Blue Puma Hoodie|Size L zipper hoodie with white Puma logo on chest|CLOTHING|Sports Complex|2026-10-14|OPEN|STUDENT|2024CS033|Vikram Joshi|9888990011
+11|LOST|Sony WH-1000XM4 Wireless Headphones|Black over-ear headphones with minor scuff on right ear cup, carried in black case|ELECTRONICS|Library|2026-10-18|OPEN|STUDENT|2024CS099|Aryan Sharma|9876543210
+12|FOUND|Sony Wireless Headphones in Black Case|Found black Sony headphones left near 2nd floor silent reading zone|ELECTRONICS|Library|2026-10-18|RETURNED|STAFF|STF102|Dr. Sharma|9876543210
